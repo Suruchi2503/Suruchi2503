@@ -1,5 +1,5 @@
 - 👋 Hi, I’m Suruchi
-- 👀 I’m interested in Node.js, Typescript, Javascript, Jenkins, React, HTML, CSS
+- 👀 I’m interested in Node.js, Typescript, Javascript, Jenkins, React, HTML and CSS.
 - 💞️ I’m looking to collaborate on any backend and front end technologies.
 - 📫 How to reach me email: suruchi8841@gmail.com.
 
